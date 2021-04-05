@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "bot"
+		},
+		{
+			"path": "shedule-main"
+		},
+		{
+			"path": "shedule-changes"
+		},
+		{
+			"path": "build"
+		}
+	],
+	"settings": {}
+}
